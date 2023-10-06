@@ -11,8 +11,7 @@
             </div>
         </div>
         <!-- Breadcrumb End -->
-        
-        
+    
         <!-- Registration Start -->
         <div class="login">
             <div class="container">
